@@ -1,0 +1,4 @@
+# Cloudflare Pages _redirects
+# Clean URL support: /recipe/slug -> /recipe/slug/index.html handled natively
+# 404 fallback
+/* /index.html 200
